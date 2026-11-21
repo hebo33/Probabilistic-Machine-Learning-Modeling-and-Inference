@@ -1,0 +1,49 @@
+assignment,pdf_page,topic,file
+1,2,"Expected Loss By Spam Probability",01-decision-theory-naive-bayes-graphical-models/pt1_p02_expected_loss_by_spam_probability.png
+1,3,"Optimal Decision Expected Loss",01-decision-theory-naive-bayes-graphical-models/pt1_p03_optimal_decision_expected_loss.png
+1,5,"Fashion Mnist Sample Grid",01-decision-theory-naive-bayes-graphical-models/pt1_p05_fashion_mnist_sample_grid.png
+1,11,"Naive Bayes Generated Samples",01-decision-theory-naive-bayes-graphical-models/pt1_p11_naive_bayes_generated_samples.png
+1,12,"Missing Pixel Imputation Original",01-decision-theory-naive-bayes-graphical-models/pt1_p12_missing_pixel_imputation_original.png
+1,12,"Missing Pixel Imputation Reconstruction",01-decision-theory-naive-bayes-graphical-models/pt1_p12_missing_pixel_imputation_reconstruction.png
+1,13,"Bayes Ball Dag",01-decision-theory-naive-bayes-graphical-models/pt1_p13_bayes_ball_dag.png
+1,15,"Graphical Model Conditional Independence",01-decision-theory-naive-bayes-graphical-models/pt1_p15_graphical_model_conditional_independence.png
+1,16,"Bayes Ball Lattice",01-decision-theory-naive-bayes-graphical-models/pt1_p16_bayes_ball_lattice.png
+1,17,"Bayes Ball Checkerboard",01-decision-theory-naive-bayes-graphical-models/pt1_p17_bayes_ball_checkerboard.png
+2,2,"Laika Original Binary Image",02-loopy-bp-trueskill-hmc/pt2_p02_laika_original_binary_image.png
+2,3,"Laika Noisy Image",02-loopy-bp-trueskill-hmc/pt2_p03_laika_noisy_image.png
+2,6,"Loopy Bp Denoising Comparison",02-loopy-bp-trueskill-hmc/pt2_p06_loopy_bp_denoising_comparison.png
+2,7,"Loopy Bp Step Size Comparison 1",02-loopy-bp-trueskill-hmc/pt2_p07_loopy_bp_step_size_comparison_1.png
+2,7,"Loopy Bp Step Size Comparison 2",02-loopy-bp-trueskill-hmc/pt2_p07_loopy_bp_step_size_comparison_2.png
+2,7,"Loopy Bp Step Size Comparison 3",02-loopy-bp-trueskill-hmc/pt2_p07_loopy_bp_step_size_comparison_3.png
+2,8,"Loopy Bp Noise Level Comparison",02-loopy-bp-trueskill-hmc/pt2_p08_loopy_bp_noise_level_comparison.png
+2,9,"Loopy Bp Coupling Strength Comparison 1",02-loopy-bp-trueskill-hmc/pt2_p09_loopy_bp_coupling_strength_comparison_1.png
+2,9,"Loopy Bp Coupling Strength Comparison 2",02-loopy-bp-trueskill-hmc/pt2_p09_loopy_bp_coupling_strength_comparison_2.png
+2,9,"Loopy Bp Coupling Strength Comparison 3",02-loopy-bp-trueskill-hmc/pt2_p09_loopy_bp_coupling_strength_comparison_3.png
+2,9,"Loopy Bp Coupling Strength Comparison 4",02-loopy-bp-trueskill-hmc/pt2_p09_loopy_bp_coupling_strength_comparison_4.png
+2,9,"Loopy Bp Coupling Strength Comparison 5",02-loopy-bp-trueskill-hmc/pt2_p09_loopy_bp_coupling_strength_comparison_5.png
+2,9,"Loopy Bp Coupling Strength Comparison 6",02-loopy-bp-trueskill-hmc/pt2_p09_loopy_bp_coupling_strength_comparison_6.png
+2,9,"Loopy Bp Coupling Strength Comparison 7",02-loopy-bp-trueskill-hmc/pt2_p09_loopy_bp_coupling_strength_comparison_7.png
+2,9,"Loopy Bp Coupling Strength Comparison 8",02-loopy-bp-trueskill-hmc/pt2_p09_loopy_bp_coupling_strength_comparison_8.png
+2,12,"Trueskill Likelihood Contours 1",02-loopy-bp-trueskill-hmc/pt2_p12_trueskill_likelihood_contours_1.png
+2,12,"Trueskill Likelihood Contours 2",02-loopy-bp-trueskill-hmc/pt2_p12_trueskill_likelihood_contours_2.png
+2,13,"Trueskill Posterior Contours",02-loopy-bp-trueskill-hmc/pt2_p13_trueskill_posterior_contours.png
+2,14,"Trueskill Eight Games Posterior 1",02-loopy-bp-trueskill-hmc/pt2_p14_trueskill_eight_games_posterior_1.png
+2,14,"Trueskill Eight Games Posterior 2",02-loopy-bp-trueskill-hmc/pt2_p14_trueskill_eight_games_posterior_2.png
+2,16,"Hmc Two Player Samples",02-loopy-bp-trueskill-hmc/pt2_p16_hmc_two_player_samples.png
+2,17,"Hmc Eight Wins Samples",02-loopy-bp-trueskill-hmc/pt2_p17_hmc_eight_wins_samples.png
+2,18,"Hmc Chess Player Skill Samples",02-loopy-bp-trueskill-hmc/pt2_p18_hmc_chess_player_skill_samples.png
+2,20,"Chess Player Skill Estimates",02-loopy-bp-trueskill-hmc/pt2_p20_chess_player_skill_estimates.png
+2,22,"Chess Skill Pairwise Scatter",02-loopy-bp-trueskill-hmc/pt2_p22_chess_skill_pairwise_scatter.png
+2,23,"Chess Skill Pairwise Posterior",02-loopy-bp-trueskill-hmc/pt2_p23_chess_skill_pairwise_posterior.png
+3,5,"Svi Two Player Posterior Contours",03-variational-inference-vae-clustering/pt3_p05_svi_two_player_posterior_contours.png
+3,8,"Svi Chess Player Skill Estimates",03-variational-inference-vae-clustering/pt3_p08_svi_chess_player_skill_estimates.png
+3,9,"Svi Chess Skill Pairwise Scatter",03-variational-inference-vae-clustering/pt3_p09_svi_chess_skill_pairwise_scatter.png
+3,11,"Pinwheel Dataset",03-variational-inference-vae-clustering/pt3_p11_pinwheel_dataset.png
+3,14,"Vae Latent Space Samples",03-variational-inference-vae-clustering/pt3_p14_vae_latent_space_samples.png
+3,15,"Vae Decoder Warped Grid",03-variational-inference-vae-clustering/pt3_p15_vae_decoder_warped_grid.png
+3,16,"Vae Encoder Warped Grid 1",03-variational-inference-vae-clustering/pt3_p16_vae_encoder_warped_grid_1.png
+3,16,"Vae Encoder Warped Grid 2",03-variational-inference-vae-clustering/pt3_p16_vae_encoder_warped_grid_2.png
+3,17,"Kmeans Synthetic Dataset",03-variational-inference-vae-clustering/pt3_p17_kmeans_synthetic_dataset.png
+3,19,"Kmeans Distortion Curve",03-variational-inference-vae-clustering/pt3_p19_kmeans_distortion_curve.png
+3,20,"Kmeans Cluster Assignments",03-variational-inference-vae-clustering/pt3_p20_kmeans_cluster_assignments.png
+3,22,"Gaussian Mixture Em Log Likelihood",03-variational-inference-vae-clustering/pt3_p22_gaussian_mixture_em_log_likelihood.png
